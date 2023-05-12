@@ -1,0 +1,46 @@
+ADHD (Adult)
+AIDS / HIV
+Allergies
+Anxiety & Panic Attacks
+Arthritis
+Asthma
+Bipolar Disorder
+Breast Cancer
+Cancer
+Cervical Cancer
+Contact Dermatitis
+Crohn's Disease
+Depression
+Diabetes
+Eczema
+Erectile Dysfunction (Male)
+Female Pattern Baldness
+Fibromyalgia
+Gastroesophageal Reflux Disease (GERD)
+Gastrointestinal Disorders
+Hair Loss
+Hay Fever
+Heart Disease
+Hemorrhoids
+High Cholesterol
+Irritable Bowel Syndrome (IBS)
+Lung Cancer
+Male Pattern Baldness
+Menopause
+Mental Health
+Osteoarthritis
+Overactive Bladder (OAB)
+Pain
+Peptic Ulcers
+Prostate Cancer
+Rheumatoid Arthritis
+Schizophrenia
+Sexual Dysfunction (Female)
+Sexual Health
+Skin Cancer and Melanoma
+Tinea Capitis (Head)
+Weight Gain
+Weight Loss
+
+############# Common Condition url where a list of medicine is recorded in the table
+url = https://www.drugs.com/alpha/condition/
